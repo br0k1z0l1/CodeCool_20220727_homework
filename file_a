@@ -12,3 +12,6 @@ local branching
 convenient staging areas
 multiple workflows
 distributed version control
+
+What to write in .gitignore to ignore every .txt fájlt:
+*.txt
