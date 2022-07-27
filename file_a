@@ -1,0 +1,14 @@
+What is Git?
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+What is a version control system?
+Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+
+Advantages:
+easy to learn
+tiny footprint
+fast performance
+local branching
+convenient staging areas
+multiple workflows
+distributed version control
